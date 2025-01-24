@@ -1,0 +1,26 @@
+<Bindings>
+  <Binding name="MORAIDMARKER_STAR" header="MORAIDMARKERS">
+    MORaidMarkers_SetMark(1)
+  </Binding>
+  <Binding name="MORAIDMARKER_CIRCLE" >
+    MORaidMarkers_SetMark(2)
+  </Binding>
+  <Binding name="MORAIDMARKER_DIAMOND" >
+    MORaidMarkers_SetMark(3)
+  </Binding>
+  <Binding name="MORAIDMARKER_TRIANGLE" >
+    MORaidMarkers_SetMark(4)
+  </Binding>
+  <Binding name="MORAIDMARKER_MOON" >
+    MORaidMarkers_SetMark(5)
+  </Binding>
+  <Binding name="MORAIDMARKER_SQUARE" >
+    MORaidMarkers_SetMark(6)
+  </Binding>
+  <Binding name="MORAIDMARKER_CROSS" >
+    MORaidMarkers_SetMark(7)
+  </Binding>
+  <Binding name="MORAIDMARKER_SKULL" >
+    MORaidMarkers_SetMark(8)
+  </Binding>
+</Bindings>

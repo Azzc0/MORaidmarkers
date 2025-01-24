@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: MO Raidmarkers
+## Author: Azzco
+## Version: 1.0.0.0
+## Notes: Adds keybinds for mouoseover raidtarget assignment
+Bindings.xml
+Core.lua
